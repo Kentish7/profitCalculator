@@ -1,4 +1,3 @@
 # profitCalculator
-A simple project that calculate your current profit in crypto space!
-
-It will give you the percentage of your profit and the value in USD!
+This program has the function to calculate your current profit on Crypto space. 
+It will show your result on USD and in percentage.
