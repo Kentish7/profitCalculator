@@ -12,7 +12,7 @@ int main() {
     cin >> priceBought;
 
     double initialValue = amountBought * priceBought;
-    cout << "Your initial invesment was: " << initialValue <<"!\n";
+    cout << "Your initial investment was: " << initialValue <<"!\n";
 
     cout << "Finally, type here your sell price: ";
     double sellPrice;
