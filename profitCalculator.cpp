@@ -24,5 +24,3 @@ int main() {
     int currentProfit = (sellPrice - priceBought) / priceBought * 100;
     cout << "Your profit in percentage is: " << currentProfit << "%!\n";
     return 0;
-
-    return 0;
